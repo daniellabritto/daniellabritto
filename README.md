@@ -1,4 +1,4 @@
-Olá! Seja bem vindo ao meu perfil, me chamo Daniella👋
+Olá Mundo! Seja bem vindo ao meu perfil, me chamo Daniella👋
 
 - 💻 Estudando JavaScript 
 
